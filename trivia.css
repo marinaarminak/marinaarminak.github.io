@@ -1,0 +1,35 @@
+body{
+    font-family:trebuchetms;
+    background-image:url("images/image17.jpg");
+    color:white;
+}
+TEXTAREA{
+    border:none;
+    font-family:trebuchetms;
+    font-size:14px;
+    padding: 10px;
+    color:white;
+    background-color:transparent;
+    font-size:75%;
+    text-align:center;
+}
+#B1, #B2, #C1, #C2{
+    visibility:hidden;
+}
+input{
+    color:white;
+    background-color:transparent;
+    border-color:white;
+    font-size:75%;
+}
+form{
+    font-size:200%;
+    text-align:center;
+}
+#score{
+    color:white;
+    background-color:transparent;
+    border-color:white;
+    font-size:75%;
+    width:15%;
+}
